@@ -1,5 +1,5 @@
 {
-  "name": "@kdv24/ejs-webpack-loader",
+  "name": "@kdevries/ejs-webpack-loader",
   "version": "3.0.0",
   "description": "EJS webpack 4.x loader (without frontend dependencies)",
   "main": "index.js",
